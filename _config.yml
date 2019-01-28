@@ -15,7 +15,7 @@ defaults:
       image: true
 
 title: Minimalism
-name: minimalism
+name: kunfire
 description: Minimalism is a jekyll theme for minimalist
 
 github: https://github.com/showzeng/Minimalism
